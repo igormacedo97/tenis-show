@@ -9,6 +9,8 @@
 
 Projeto desenvolvido durante a aula gratuita da Isadora, criadora do [Papo de Dev](https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA) com o intuito de praticar minhas habilidades envolvendo HTML5 e CSS3 juntamente com flexbox.
 
+Ainda falta aprimorar o projeto para que o mesmo se torne responsivo.
+
 ## 🚀 Começando
 
 Necessário apenas realizar o donwload ou baixar uma cópia do projeto para você testar, utilizar ou alterar em sua própria máquina.
